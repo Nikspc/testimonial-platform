@@ -1,0 +1,20 @@
+{
+  "name": "testimonial-platform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.2.4",
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
