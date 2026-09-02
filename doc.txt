@@ -1,0 +1,15 @@
+P2] AI-powered feature inside the product
+	-display ai_summary and ai_sentiment
+
+
+
+git remote add origin https://github.com/Nikspc/testimonial-platform.git
+
+
+Backend URL => https://testimonial-platform-ruy1.onrender.com => Deployed on render
+
+Frontend URL =>	https://testimonial-platform-eta.vercel.app=> Deployed on vercel		
+
+
+##Local run
+	npm run deploy..		
