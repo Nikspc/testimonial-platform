@@ -2,7 +2,7 @@
 
 Small testimonial platform where customers submit testimonials, businesses moderate them, and approved testimonials appear on a public wall + an embeddable `<script>` widget.
 
-## Features
+## Features..
 
 ### P0 (core flow)
 - Public submission form: name, email, company, testimonial text, star rating, optional photo
